@@ -1,0 +1,33 @@
+
+h1{
+    font-size: 4em;
+    background-image: url(photo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    color:rgb(90, 90, 88)
+}
+h2{
+    font-family: "Gentium Book Basic", Georgia, serif;
+    color:rgb(20, 20, 20)
+}
+body{
+    
+    #background-color: rgb(240, 240, 218);
+    color: #222222;
+    #padding: 1em 0;  
+    border-top: solid 1em rgb(90,90,88);
+}
+h3{
+    font-family: sans-serif;
+    #max-width: 38em;
+    #margin-left: auto;
+    #margin-right: auto;
+    #margin-top: 2em;
+}
+h4{
+    color: rgb(99, 168, 196);
+    font-size: larger;
+    background-color: rgb(90, 90, 88);
+    text-align: center;
+}
